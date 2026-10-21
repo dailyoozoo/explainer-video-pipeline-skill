@@ -1,3 +1,12 @@
+---
+name: explainer-video-pipeline
+description: 一个人 + AI 工具链做一条 60–120 秒科普/解说视频的全流程：定题核事实 → 脚本 → anatomy 解剖图 → Gemini TTS 一次成型配音 → Mixkit 实拍与配乐 → 按标点合成 → 交片自检。当用户要做科普视频、解说视频、explainer video，或说「按这个流程做一条视频」时使用。
+when_to_use: 用户提出做科普/解说/explainer 类短视频，需要从选题核事实走到交片自检的完整流程时。
+metadata:
+  upstream: https://github.com/pinosong/explainer-video-pipeline-skill
+  category: Create
+---
+
 # Explainer Video Pipeline（科普解说视频全流程）
 
 ## Purpose
