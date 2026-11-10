@@ -1,0 +1,17 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "duration": 12,
+  "shots": [
+    {"id": "SH001", "start": 0, "end": 4, "frames": 120, "kind": "image", "plate": "assets/plates/opening.png"},
+    {"id": "SH002", "start": 4, "end": 10, "frames": 180, "kind": "video", "plate": "assets/plates/demo-overlay.png", "source": "assets/media/demo.mp4", "offset": 2, "box": [72, 630, 936, 600]},
+    {"id": "SH003", "start": 10, "end": 12, "frames": 60, "kind": "image", "plate": "assets/plates/follow.png"}
+  ],
+  "subtitles": [
+    {"id": "C01S01", "start": 0, "end": 2, "text": "先看这次具体的变化"},
+    {"id": "C01S02", "start": 2, "end": 4, "text": "再看一段真实演示"},
+    {"id": "C02S01", "start": 4, "end": 7, "text": "这是原始演示素材"},
+    {"id": "C02S02", "start": 7, "end": 10, "text": "结论需要结合条件理解"}
+  ]
+}
